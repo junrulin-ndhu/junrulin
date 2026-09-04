@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avater.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "刑事政策、法律與社會、原住民族法"
